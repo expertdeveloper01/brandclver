@@ -1,0 +1,49 @@
+.testy_section .owl-dots {
+    display: none !important;
+}
+button.owl-next {
+    width: 60px !important;
+    background-color: #ff000000 !important;
+    font-size: 40px !important;
+    border-radius: 50% !important;
+    box-shadow: 0px 0px 2px 0px !important;
+    color:#000 !important;
+    cursor: pointer;
+}
+button.owl-prev {
+    width: 60px !important;
+    background-color: #ff000000 !important;
+    font-size: 40px !important;
+    border-radius: 50% !important;
+    box-shadow: 0px 0px 2px 0px !important;
+    color:#000 !important;
+    cursor: pointer;
+}
+.Testmono_clint span.icon {
+    font-size: 100px !important;
+}
+.Testmono_clint .icon_client {
+    height: 70px !important;
+}
+.clint_name p {
+    font-size: 13px !important;
+}
+.testy_section .owl-theme .owl-nav [class*='owl-']:hover {
+    background-color: #000 !important;
+    color: #fff !important;
+    transition: 1.5s !important;
+}
+.custom_review_tab .item {
+    z-index: 9999999999 !important;
+    position: absolute;
+    top: -140px !important;
+}
+.owl-carousel .owl-stage-outer {
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    overflow-x: clip !important;
+}
+.owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: unset;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+}
